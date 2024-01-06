@@ -1,17 +1,16 @@
 # SendScriptWhatsApp
 
-Código para enviar o Script inteiro de Shrek ou Bee Movie para seus amigos ou grupos do WhatsApp
+Codigo para mandar el Guion de Shrek a conversaciones de whatsapp traducido al espanol.
 
-## Utilização
+## How to Use
 
 Abra [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
-Ou
-Abra [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
 
-Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
-No WhatsApp Web abra o console do Browser
+Copie todo el contenid (Click en raw -> ctrl+a -> ctrl+c)
 
-Cole o código no console e aperte Enter
+En whatsapp web abrir la consola del navegador
 
-Pronto
+Copie y pegue en contenido y presione enter
+
+Debe tener abierta la conversacion objetivo antes de ejecutar
