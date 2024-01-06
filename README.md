@@ -4,7 +4,7 @@ Codigo para mandar el Guion de Shrek a conversaciones de whatsapp traducido al e
 
 ## How to Use
 
-Abra [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
+Abra [shrekSendScript.js](https://github.com/pelus131/SendScriptWhatsAppShrekScriptSpanish/blob/main/shrekSendScript.js)
 
 
 Copie todo el contenid (Click en raw -> ctrl+a -> ctrl+c)
